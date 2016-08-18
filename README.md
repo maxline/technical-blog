@@ -1,2 +1,3 @@
-# test-project
-Hello everyBody112233
+# Techical blog.
+Solutions of some issues.
+Useful development practices, tricks and features.
